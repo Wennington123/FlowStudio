@@ -1,0 +1,26 @@
+LICENÇA DE SOFTWARE PROPRIETÁRIO (EULA) - FlowStudio
+
+Copyright (c) 2026 Wennington Dias Aquino. Todos os direitos reservados.
+
+1. PROPRIEDADE E RESTRIÇÕES ABSOLUTAS
+O software FlowStudio, incluindo seu código-fonte, arquitetura, interface visual e documentação, é propriedade intelectual exclusiva de Wennington Dias Aquino. O código-fonte é fechado. É expressamente e estritamente proibido:
+
+    Copiar, clonar, reproduzir ou imitar o código-fonte;
+
+    Modificar, adaptar ou criar trabalhos derivados deste software;
+
+    Realizar engenharia reversa, descompilar ou desmontar o executável para acessar a lógica de programação;
+
+    Vender, alugar ou sublicenciar este software.
+
+2. USO E DISTRIBUIÇÃO
+O uso desta ferramenta é permitido para a geração de diagramas de fluxo. A distribuição do arquivo instalador original é permitida, desde que seja feita de forma gratuita e sem qualquer alteração no software ou nesta licença.
+
+3. BASE METODOLÓGICA E ATRIBUIÇÃO ACADÊMICA
+O FlowStudio é uma ferramenta de automação independente. O design do fluxograma gerado baseia-se exclusivamente nas diretrizes metodológicas da Declaração PRISMA 2020. Todos os diagramas resultantes seguem as recomendações estabelecidas em:
+
+    Page MJ, McKenzie JE, Bossuyt PM, Boutron I, Hoffmann TC, Mulrow CD, et al. A declaração PRISMA 2020: diretriz atualizada para relatar revisões sistemáticas. Epidemiol Serv Saude. 2022;31(2):e2022107.
+    DOI: 10.5123/S1679-49742022000200033
+
+4. LIMITAÇÃO DE RESPONSABILIDADE
+O software é fornecido "como está". O autor não se responsabiliza por perdas, danos ou pela interpretação acadêmica dos dados inseridos pelo usuário na geração dos diagramas.
