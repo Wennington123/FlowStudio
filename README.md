@@ -1,4 +1,4 @@
-# FlowStudio v1.1 🚀
+# FlowStudio v1.6 🚀
 
 **FlowStudio** é uma ferramenta desktop de alta precisão desenvolvida para automatizar a construção de fluxogramas de revisão sistemática, garantindo total conformidade visual e metodológica com a **Diretriz PRISMA 2020**.
 
